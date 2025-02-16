@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>links table and list</title>
+    </head>
+    <body>
+        <hr>
+        <h1>Table in school</h1>
+        <table border="20">
+            <tr>
+                <th>Student Name</th>
+                <th>Student grade</th>
+                <th>Student school</th>
+            </tr>
+            <tr>
+                <th>Ogundeji Daniel</th>
+                <th>Grade 10</th>
+                <th>Liberty College School</th>
+            </tr>
+            <tr>
+                <th>Ajayi Mary</th>
+                <th>Grade 12</th>
+                <th>Deum Credo School</th>
+            </tr>
+            <tr>
+                <th>Ajetomobi Precious</th>
+                <th>Grade 9</th>
+                <th>Platform School</th>
+            </tr>
+            <tr>
+                <th>Dogan John</th>
+                <th>Grade 8</th>
+                <th>Abbot School</th>
+            </tr>
+            <tr>
+                <th>Abiodun Simeon</th>
+                <th>Grade 7</th>
+                <th>Siena School</th>
+            </tr>
+            <tr>
+                <th>Olowofela David</th>
+                <th>Grade 6</th>
+                <th>New Mark School</th>
+            </tr>
+            <tr>
+                <th>Olayinka Joy</th>
+                <th>Grade 5</th>
+                <th>De-Anchor School</th>
+            </tr>
+            <tr>
+                <th>Idoko Purity</th>
+                <th>Grade 4</th>
+                <th>De-Rinde Seed School</th>
+            </tr>
+            <tr>
+                <th>Oyekan Taiwo</th>
+                <th>Grade 3</th>
+                <th> The Giving Tree School</th>
+            </tr>
+            <tr>
+                <th>Ugoh Patricia</th>
+                <th>Grade 2</th>
+                <th>Honey Land School</th>
+            </tr>
+        </table>
+    </body>
